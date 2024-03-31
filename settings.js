@@ -16,22 +16,21 @@
 //                                                                                                      //
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 //*
- //  * @project_name : XLICON-V3-MD
- //  * @author : salmanytofficial
- //  * @youtube : https://www.youtube.com/@s4salmanyt
+ //  * @project_name : okelloh-MD
+ //  * @author :okellohofficial
 //   * @description : XLICON-V3 ,A Multi-functional whatsapp user bot.
 //*
 //* 
 //base by DGXeon
 //re-upload? recode? copy code? give credit ya :)
-//Instagram: unicorn_xeon13
-//Telegram: t.me/ahmmitech
-//GitHub: @salmanytofficial
-//WhatsApp: +923184070915
+//Instagram: likkle_duddy
+//Telegram: t.me/okellloh
+//GitHub: @okelloh
+//WhatsApp: +254794316375
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
 //   * Created By Github: DGXeon.
 //   * Credit To Xeon
-//   * © 2024 XLICON-V3-MD.
+//   * © 2024 okelloh-MD.
 // ⛥┌┤
 // */
 
@@ -41,7 +40,7 @@ if (fs.existsSync('.env')) require('dotenv').config({ path: __dirname+'/.env' })
 
 //owmner v card
 //________________________________________________________________________________________________________
-global.ytname = process.env.YT_NAME || "YT: S2 OKELLOH" //ur yt chanel name
+global.ytname = process.env.YT_NAME || "S2 OKELLOH" //ur yt chanel name
 //________________________________________________________________________________________________________
 global.socialm = process.env.MEDIA || "GitHub: OKELLOH" //ur github or insta name
 //________________________________________________________________________________________________________
@@ -81,7 +80,7 @@ global.hituet = 0
 
 //bot sett
 //________________________________________________________________________________________________________
-global.typemenu = process.env.MENU_DESIGN || 'v4' // menu type 'v1' => 'v8'
+global.typeallvar = process.env.MENU_DESIGN || 'v4' // menu type 'v1' => 'v8'
 //________________________________________________________________________________________________________
 global.typereply = process.env.REPLY_TYPE || 'v2' // reply type 'v1' => 'v3'
 //________________________________________________________________________________________________________
